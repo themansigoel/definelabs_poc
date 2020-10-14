@@ -2,8 +2,8 @@
 //  CoreDataManager.swift
 //  iOSPOC
 //
-//  Created by Rahul Goel on 20/06/19.
-//  Copyright © 2019 Rahul Goel. All rights reserved.
+//  Created by Mansi on 20/06/19.
+//  Copyright © 2019 Mansi. All rights reserved.
 //
 
 import CoreData

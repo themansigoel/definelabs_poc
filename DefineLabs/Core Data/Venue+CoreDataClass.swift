@@ -2,7 +2,7 @@
 //  Venue+CoreDataClass.swift
 //  
 //
-//  Created by RAHUL GOEL on 10/10/20.
+//  Created by Mansi on 10/10/20.
 //
 //
 

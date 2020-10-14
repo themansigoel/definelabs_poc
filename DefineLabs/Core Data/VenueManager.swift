@@ -2,7 +2,7 @@
 //  VenueManager.swift
 //  DefineLabs
 //
-//  Created by RAHUL GOEL on 10/10/20.
+//  Created by Mansi on 10/10/20.
 //  Copyright © 2020 -. All rights reserved.
 //
 

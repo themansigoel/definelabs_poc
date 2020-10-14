@@ -2,7 +2,7 @@
 //  ApiManager.swift
 //  DefineLabs
 //
-//  Created by RAHUL GOEL on 30/09/20.
+//  Created by Mansi on 30/09/20.
 //  Copyright © 2020 -. All rights reserved.
 //
 
